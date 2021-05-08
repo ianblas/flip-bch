@@ -1,6 +1,3 @@
-> tal persona dijo que saraza
-
-
 We are a group of people in Buenos Aires, Argentina, who just six months ago got together with the purpose of seriously pursuing our goal of carrying out a Project based on three Key Pillars: providing precise information on Bitcoin Cash, organizing a qualified Users' Support scheme, and promoting and growing the use of this criptocurrency in Argentina, a country that is once again being hard hit by inflation. 
 
 We first decided to work and prove what we are capable of, in order to be able to officially present ourselves today to the Bitcoin Cash Community showing clear indicators of success in the three points mentioned above.
