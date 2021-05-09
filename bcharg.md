@@ -36,7 +36,7 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 - [A BCH inquiries website](https://bitcoincashargentina.com/).
 - [We launched our own YouTube channel](https://www.youtube.com/watch?v=J5zP-ubUpXU)
 - As a reference point, **we established a BCH-Argentine Peso exchange rate**, suitably adapted to conditions reigning in Argentina.
-    - This exchange rate is key in order not to depend on local exchange rates, and to achieve a dynamic interaction amongst customers and businesses.
+    - This exchange rate is key in order not to depend on local exchange rates, and to achieve a dynamic interaction between customers and businesses.
 - We offer a guiding manual and support for businesses and companies.
     - We have created a practical manual that explains in simple step-by-step terms how to start accepting BCH.  This document may be used by all Spanish-speaking businesses and shops.
 
@@ -92,7 +92,7 @@ To inform, to help with onboarding, and to promote its generalized use by our po
         - We set up a stand with BCH Argentina banners and merchandising materials for distribution. In this way we achieve greater public visibility.
 
 ## Our Potential in Argentina:
-**Argentina** has combination of **high inflation (50% annually)**, and the extended use of cash amongst the public. Argentinians are used to keeping our savings and making large payments in foreign currency (mostly in US Dollar bills). This entails a **favorable environment for the acceptance of BCH**, because it adds to the advantages of cash, the advantages of a digital currency.  Our objectives are to take advantage of local conditions in order for **BCH to be accepted massively** amongst the public.
+**Argentina** has combination of **high inflation (50% annually)**, and the extended use of cash amongst the public. Argentinians are used to keeping our savings and making large payments in foreign currency (mostly in US Dollar bills). This entails a **favorable environment for the acceptance of BCH**, because it adds to the advantages of cash, the advantages of a digital currency.  We intend to take advantage of local conditions in order for **BCH to be accepted massively** amongst the public.
 
 ### **Our Milestones Timeline:**
 1. **10th October 2020:** First Gathering.
