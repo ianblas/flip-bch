@@ -41,7 +41,7 @@ To inform, to help with onboarding, and to promote its generalized use by our po
     - We have created a practical manual that explains in simple step-by-step terms how to start accepting BCH.  This document may be used by all Spanish-speaking businesses and shops.
 
 ### User Acceptance:
-- There are already **39 businesses** and shops actively accepting BCH as a method of payment. (This was achieved **in just 40 days** working in the “Acceptance” field).
+- There are already **45 businesses** and shops actively accepting BCH as a method of payment. (This was achieved **in just 40 days** working in the “Acceptance” field).
 - ![Before](https://pbs.twimg.com/media/E0-2irMXoAUucjt?format=jpg&name=medium)
 - ![Now](https://pbs.twimg.com/media/E0-2irLX0AMchXn?format=jpg&name=medium)
 - We finance BCH’s growth in Argentina until we reach the first 50 businesses/companies.
@@ -103,7 +103,7 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 Activation of Social Media.
 Activation of Social Media Support (Whatsapp, Mail, Telegram, Signal).
 4. **10th March 2021:** Start of Stage 2: “0/50 Acceptance & Use”.
-5. **At present:** There are 39 businesses and companies that have been uploaded to the Website and they are constantly audited in order to ensure that they operate properly.
+5. **At present:** There are 45 businesses and companies that have been uploaded to the Website and they are constantly audited in order to ensure that they operate properly.
 **This has been our progress in these first 6 months.** 
 
 **Stage #3** “51/100 Acceptance & Use”
