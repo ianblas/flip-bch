@@ -31,8 +31,9 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 
     A logo and brand manual enabling its use on any digital or printed item.  
     Our logo is a mix between the standard BCH logo + a distinctive country identification.  
+    
+    <p align="center"><img width="800px" src="https://bitcoincashargentina.com/wp-content/uploads/2021/02/icono.png" /></p>
 
-    ![](https://bitcoincashargentina.com/wp-content/uploads/2021/02/icono.png)
 
 - [A BCH inquiries website](https://bitcoincashargentina.com/).
 
