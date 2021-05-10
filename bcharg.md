@@ -42,7 +42,7 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 
 ### User Acceptance:
 - There are already **45 businesses** and shops actively accepting BCH as a method of payment. (This was achieved **in just 40 days** working in the “Acceptance” field).
-- ![Before](https://pbs.twimg.com/media/E0-2irMXoAUucjt?format=jpg&name=medium)
+- ![Before](https://pbs.twimg.com/media/E0_FY_jX0AIWuQ9?format=jpg&name=medium)
 - ![Now](https://pbs.twimg.com/media/E0-2irLX0AMchXn?format=jpg&name=medium)
 - We finance BCH’s growth in Argentina until we reach the first 50 businesses/companies.
 - We **audit all** participating businesses in Argentina on a monthly basis.   (This represents a major differentiation, because not only are these businesses uploaded on a map, but they get actual training in BCH use and acceptance).
