@@ -28,8 +28,8 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 
  ### Identity and Structure:
 - The **Identity** of Bitcoin Cash in Argentina.
-    - A logo and brand manual enabling its use on any digital or printed item.
-    - Our logo is a mix between the standard BCH logo + a distinctive country identification.
+    A logo and brand manual enabling its use on any digital or printed item.  
+    Our logo is a mix between the standard BCH logo + a distinctive country identification.  
 
     ![](https://bitcoincashargentina.com/wp-content/uploads/2021/02/icono.png)
 
@@ -60,7 +60,7 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 - **Launch Event** - Hotel Madero - “Puerto Madero - Buenos Aires”.
     - We officially launched our website and Community, with an event attuned to the importance of this Project.
 
-    ![BCHArgentina](https://pbs.twimg.com/media/EvlG8kMXUAIkDmt?format=jpg&name=large)
+    ![BCHArgentina](https://pbs.twimg.com/media/EvlG8kMXUAIkDmt?format=jpg&name=medium)
     ![](https://pbs.twimg.com/media/EvqzlYCXMAgH05v?format=jpg&name=medium)
     ![](https://pbs.twimg.com/media/EvqzoNnXAAQni_0?format=jpg&name=medium)
 
