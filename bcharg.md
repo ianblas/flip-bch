@@ -43,22 +43,35 @@ To inform, to help with onboarding, and to promote its generalized use by our po
     - We have created a practical manual that explains in simple step-by-step terms how to start accepting BCH.  This document may be used by all Spanish-speaking businesses and shops.
 
 ### User Acceptance:
+
 - There are already **45 businesses** and shops actively accepting BCH as a method of payment. (This was achieved **in just 40 days** working in the “Acceptance” field).
-- ![Before](https://pbs.twimg.com/media/E0_FY_jX0AIWuQ9?format=jpg&name=medium)
-- ![Now](https://pbs.twimg.com/media/E0-2irLX0AMchXn?format=jpg&name=medium)
+
+   <p align="center"><img width="800px" src="https://pbs.twimg.com/media/E0_FY_jX0AIWuQ9?format=jpg" /></p>
+   
+   <p align="center"><img width="800px" src="https://pbs.twimg.com/media/E0-2irLX0AMchXn?format=jpg" /></p>
+
 - We finance BCH’s growth in Argentina until we reach the first 50 businesses/companies.
+
 - We **audit all** participating businesses in Argentina on a monthly basis.   (This represents a major differentiation, because not only are these businesses uploaded on a map, but they get actual training in BCH use and acceptance).
+
 - We give **active support** to businesses and users (via Whatsapp, Mail, Telegram, Signal).
+
 - We provide a “Bitcoin Cash Accepted Here” sticker, which can be pasted on shop windows.
+
 - All shops and businesses can collect BCH directly (there is no POS as in GoCrypto in Argentina). This makes acceptance and implementation work more complicated.
+
 - We work with **foreigners and Ex-pat communities**, so that their needs to **remit funds abroad** can be made simpler by **using BCH**.
 
 ### Marketing & Advertising:
+
 - We generate audiovisual materials and flyers on a daily basis.
+
 - We helped to correct and adjust the BCH-Argentine Peso exchange rate on the [bitcoin.com wallet](https://wallet.bitcoin.com/) and [Bitcoin Cash Register App](https://www.bitcoin.com/bitcoin-cash-register/).
+
 - We hold [BCH lotteries](https://www.instagram.com/p/CN8fLDbMoC-/) in the social media, thus promoting and disseminating its use.
 
 ### MeetUp & Training:
+
 - **Launch Event** - Hotel Madero - “Puerto Madero - Buenos Aires”.
     - We officially launched our website and Community, with an event attuned to the importance of this Project.
 
@@ -73,13 +86,18 @@ To inform, to help with onboarding, and to promote its generalized use by our po
         - Audio-Visual material was generated.
         - Community building.
         - Delivery of Merchandising Material.
+
 - Monthly Meetups to unite the Community.
+
 - We give [training courses and seminars](https://twitter.com/BCHArgentina/status/1381736450371248132) to educate participants on Bitcoin Cash.
+
 - The “Bitcoin Cash Experience”
     - Once a month, we set up a gathering in a bar that is already a part of the Project, where consumption is done using BCH previously donated by Bitcoin Cash Argentina.
 
 ## What do we wish to achieve in our Next Stage?
+
 - We wish to **expand the number of BCH accepting businesses** and companies from the original 50 already projected with our own funds, **to a total of 100**.
+
 - Sustain our structures for:
     - [Support](https://twitter.com/BCHArgentina/status/1374882332046426117)
     - Design
@@ -87,6 +105,7 @@ To inform, to help with onboarding, and to promote its generalized use by our po
     - Marketing 
     - Website updates and improvements
     - Training for foreigners who wish to make remittances.
+
 - Support public awareness with conferences, meetups, and introductory seminars.
     - One monthly **“Bitcoin Cash Experience”** in-person event: 
         - The “Bitcoin Cash Experience” is a sequence of events in which BCH Argentina invites the local Community to take part in. The focus is on the experience of using and adopting BCH. This differs from a Meetup where the focus is on chatting or listening to speakers.
@@ -99,12 +118,17 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 **Argentina** has combination of **high inflation (50% annually)**, and the extended use of cash amongst the public. Argentinians are used to keeping our savings and making large payments in foreign currency (mostly in US Dollar bills). This entails a **favorable environment for the acceptance of BCH**, because it adds to the advantages of cash, the advantages of a digital currency.  We intend to take advantage of local conditions in order for **BCH to be accepted massively** amongst the public.
 
 ### **Our Milestones Timeline:**
+
 1. **10th October 2020:** First Gathering.
+
 2. **22nd October 2020:** Formal presentation of our Work Plan’s first stage, “Identity and Web”.
+
 3. **2nd February2021:** Official Launching of our Website: www.bitcoincashargentina.com
 Activation of Social Media.
 Activation of Social Media Support (Whatsapp, Mail, Telegram, Signal).
+
 4. **10th March 2021:** Start of Stage 2: “0/50 Acceptance & Use”.
+
 5. **At present:** There are 45 businesses and companies that have been uploaded to the Website and they are constantly audited in order to ensure that they operate properly.
 **This has been our progress in these first 6 months.** 
 
@@ -113,14 +137,21 @@ Implementation Period: 90 days. (We will endeavor to reach this number as quickl
 Required Budget: 52 BCH
 
 **Our Online Presence:**
+
 - [Website](https://bitcoincashargentina.com/)
+
 - [Twitter](https://twitter.com/BCHArgentina)
+
 - [Instagram](https://www.instagram.com/bitcoincashargentina/)
+
 - [Reddit](https://www.reddit.com/user/BitcoinCashArgentina/)
+
 - [ReadCash](https://read.cash/@BitcoinCashArgentina)
+
 - [Donate to BCH Argentina](https://tipb.ch/BCHArgentina)
 
 **Social Media Next Steps:**
+
 - Gain more followers through:
     - Advertising Campaign.
     - BCH Gift lotteries
