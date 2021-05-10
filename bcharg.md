@@ -37,10 +37,14 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 - [A BCH inquiries website](https://bitcoincashargentina.com/).
 
 - [We launched our own YouTube channel](https://www.youtube.com/watch?v=J5zP-ubUpXU)
+
 - As a reference point, **we established a BCH-Argentine Peso exchange rate**, suitably adapted to conditions reigning in Argentina.
-    - This exchange rate is key in order not to depend on local exchange rates, and to achieve a dynamic interaction between customers and businesses.
+    
+    This exchange rate is key in order not to depend on local exchange rates, and to achieve a dynamic interaction between customers and businesses.
+
 - We offer a guiding manual and support for businesses and companies.
-    - We have created a practical manual that explains in simple step-by-step terms how to start accepting BCH.  This document may be used by all Spanish-speaking businesses and shops.
+    
+    We have created a practical manual that explains in simple step-by-step terms how to start accepting BCH.  This document may be used by all Spanish-speaking businesses and shops.
 
 ### User Acceptance:
 
@@ -75,11 +79,13 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 - **Launch Event** - Hotel Madero - “Puerto Madero - Buenos Aires”.
     - We officially launched our website and Community, with an event attuned to the importance of this Project.
 
-    ![BCHArgentina](https://pbs.twimg.com/media/EvlG8kMXUAIkDmt?format=jpg&name=medium)
-    ![](https://pbs.twimg.com/media/EvqzlYCXMAgH05v?format=jpg&name=medium)
-    ![](https://pbs.twimg.com/media/EvqzoNnXAAQni_0?format=jpg&name=medium)
+<p align="center"><img width="800px" src="https://pbs.twimg.com/media/EvlG8kMXUAIkDmt?format=jpg" /></p>
 
-    - In it, we carried out specific actions such as:
+<p align="center"><img width="800px" src="https://pbs.twimg.com/media/EvqzlYCXMAgH05v?format=jpg" /></p>
+
+<p align="center"><img width="800px" src="https://pbs.twimg.com/media/EvqzoNnXAAQni_0?format=jpg" /></p>
+
+- In it, we carried out specific actions such as:
         - Wallet activation.
         - Money was sent to each attending participant, via a live donation which was made for us by **Roger Ver**.
         - Information about the Project.
