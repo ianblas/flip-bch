@@ -135,11 +135,11 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 - Support public awareness with conferences, meetups, and introductory seminars.
     
     One monthly **“Bitcoin Cash Experience”** in-person event: 
-        - The “Bitcoin Cash Experience” is a sequence of events in which BCH Argentina invites the local Community to take part in. The focus is on the experience of using and adopting BCH. This differs from a Meetup where the focus is on chatting or listening to speakers.
-        - Agreements with bars and restaurants have been made, in which attending participants get a donation in their wallets to consume in the MeetUp point.
-        - Bar and restaurant workers can also download their [bitcoin.com wallet](https://wallet.bitcoin.com/), in order to get their service tips in BCH.
-        - Other people who are present in the bar and restaurant are invited to participate, even if they are not a part of the BCH Argentina Community. 
-        - We set up a stand with BCH Argentina banners and merchandising materials for distribution. In this way we achieve greater public visibility.
+        The “Bitcoin Cash Experience” is a sequence of events in which BCH Argentina invites the local Community to take part in. The focus is on the experience of using and adopting BCH. This differs from a Meetup where the focus is on chatting or listening to speakers.
+        Agreements with bars and restaurants have been made, in which attending participants get a donation in their wallets to consume in the MeetUp point.
+        Bar and restaurant workers can also download their [bitcoin.com wallet](https://wallet.bitcoin.com/), in order to get their service tips in BCH.
+        Other people who are present in the bar and restaurant are invited to participate, even if they are not a part of the BCH Argentina Community. 
+        We set up a stand with BCH Argentina banners and merchandising materials for distribution. In this way we achieve greater public visibility.
 
 ### Our Potential in Argentina:
 
