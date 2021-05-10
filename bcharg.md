@@ -145,7 +145,7 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 
 **Argentina** has combination of **high inflation (50% annually)**, and the extended use of cash amongst the public. Argentinians are used to keeping our savings and making large payments in foreign currency (mostly in US Dollar bills). This entails a **favorable environment for the acceptance of BCH**, because it adds to the advantages of cash, the advantages of a digital currency.  We intend to take advantage of local conditions in order for **BCH to be accepted massively** amongst the public.
 
-### **Our Milestones Timeline:**
+### Our Milestones Timeline:
 
 1. **10th October 2020:** First Gathering.
 
@@ -153,8 +153,8 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 
 3. **2nd February2021:** Official Launching of our Website: www.bitcoincashargentina.com
 
-  Activation of Social Media.  
-  Activation of Social Media Support (Whatsapp, Mail, Telegram, Signal).
+    Activation of Social Media.  
+    Activation of Social Media Support (Whatsapp, email, Telegram, Signal).  
 
 4. **10th March 2021:** Start of Stage 2: “0/50 Acceptance & Use”.
 
