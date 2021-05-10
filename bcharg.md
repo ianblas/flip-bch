@@ -108,7 +108,7 @@ Activation of Social Media Support (Whatsapp, Mail, Telegram, Signal).
 
 **Stage #3** “51/100 Acceptance & Use”
 Implementation Period: 90 days. (We will endeavor to reach this number as quickly as possible, however we feel more accountable by accepting a commitment to a specific deadline date).
-Required Budget: 97 BCH
+Required Budget: 52 BCH
 
 **Our Online Presence:**
 - [Website](https://bitcoincashargentina.com/)
