@@ -61,8 +61,8 @@ To inform, to help with onboarding, and to promote its generalized use by our po
     - We officially launched our website and Community, with an event attuned to the importance of this Project.
 
     ![BCHArgentina](https://pbs.twimg.com/media/EvlG8kMXUAIkDmt?format=jpg&name=large)
-    ![](https://pbs.twimg.com/media/EvqzlYCXMAgH05v?format=jpg&name=large)
-    ![](https://pbs.twimg.com/media/EvqzoNnXAAQni_0?format=jpg&name=large)
+    ![](https://pbs.twimg.com/media/EvqzlYCXMAgH05v?format=jpg&name=medium)
+    ![](https://pbs.twimg.com/media/EvqzoNnXAAQni_0?format=jpg&name=medium)
 
     - In it, we carried out specific actions such as:
         - Wallet activation.
