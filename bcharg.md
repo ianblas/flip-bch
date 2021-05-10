@@ -153,8 +153,8 @@ To inform, to help with onboarding, and to promote its generalized use by our po
 
 3. **2nd February2021:** Official Launching of our Website: www.bitcoincashargentina.com
 
-Activation of Social Media.
-Activation of Social Media Support (Whatsapp, Mail, Telegram, Signal).
+  Activation of Social Media.  
+  Activation of Social Media Support (Whatsapp, Mail, Telegram, Signal).
 
 4. **10th March 2021:** Start of Stage 2: “0/50 Acceptance & Use”.
 
